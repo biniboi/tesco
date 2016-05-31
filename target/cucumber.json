@@ -1,0 +1,1 @@
+[{"line":2,"name":"Groceries Search","description":"\r\nIn order to find grocerie items\r\nAs a user\r\nI want to be able to search using the search functionality","id":"groceries-search","keyword":"Feature","uri":"bddTestCase\\search.feature","tags":[{"line":1,"name":"@search"}]}]
